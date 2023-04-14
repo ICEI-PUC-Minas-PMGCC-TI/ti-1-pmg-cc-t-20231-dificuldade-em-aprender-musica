@@ -73,11 +73,7 @@ Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à moti
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+O Projeto RHYTHMICITY será desenvolvido como um site, utilizando linguagens como HTML, CSS e Bootstrap para criar uma plataforma e comunidade de estudo de música. A utilização dessas tecnologias permite criar uma plataforma dinâmica e responsiva, que se adapta a diferentes dispositivos e tamanhos de tela. Além disso, a parte de design e artística será desenvolvida principalmente no software Adobe Photoshop CC, permitindo a criação de imagens e elementos gráficos personalizados que podem ser integrados à plataforma. A utilização de técnicas de design visual e artístico pode ajudar a tornar a plataforma mais atraente e agradável visualmente para os usuários, o que pode aumentar sua motivação e engajamento no aprendizado de música.
 
 ## Personas, Empatia e Proposta de Valor
 
