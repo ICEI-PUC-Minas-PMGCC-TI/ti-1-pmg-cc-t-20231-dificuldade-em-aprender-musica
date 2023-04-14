@@ -9,10 +9,10 @@ Ciência da Computação PUC Minas
 
 ## Participantes
 
-> Felipe Vilhena
-> Lucas Hauck
-> Gabriel Apocalypse
-> Luiz Segolin
+> - Felipe Vilhena
+> - Lucas Hauck
+> - Gabriel Apocalypse
+> - Luiz Segolin
 
 # Estrutura do Documento
 
