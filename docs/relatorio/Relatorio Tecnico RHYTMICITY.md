@@ -1,11 +1,11 @@
 # Informações do Projeto
-` PROJETO RHYTMICITY`  
+` Informações do Projeto`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PROJETO RHYTMICITY
 
-`Ciencias da Computação PUC minas` 
+`Curso` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação PUC Minas
 
 ## Participantes
 
