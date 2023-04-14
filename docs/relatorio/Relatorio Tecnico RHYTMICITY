@@ -1,16 +1,17 @@
 # Informações do Projeto
-`PROJETO RHYTMICITY`  
+`Calvície Masculina`  
 
-
-`Ciencias Da Computação PUC Minas - 1º Periodo` 
+Trabalho Interdiscplinar Web - Grupo Calvície
+`Ciência da Computação` 
 
 ## Participantes
-
-> Os membros do grupo são: 
-> - Felipe Vilhena
-> - Lucas Hauck
-> - Gabriel Apocalypse
-> - Luiz Segolin
+>  Os membros do grupo são: 
+> - Guilherme Guimarães Dias Coelho
+> - Henrique França Carvalho Soares
+> - Leonardo Braga de Oiveira
+> - Luiza Vieira de Matos Loures
+> - Samuel Luiz da Cunha Viana Cruz 
+> - Suzane Lemos de Lima
 
 # Estrutura do Documento
 
@@ -23,7 +24,7 @@
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
+  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
@@ -51,23 +52,47 @@
 
 ## Problema
 
-Atualmente, muitas pessoas encontram dificuldades em aprender música. Uma das principais razões é a falta de tempo. Com a vida agitada e a sobrecarga de compromissos, muitas pessoas têm dificuldade em encaixar aulas de música em sua rotina. Além disso, o preço dos instrumentos pode ser bastante alto, o que pode desencorajar as pessoas a se envolverem com a música. Por fim, o mundo atual, que é cada vez mais rápido e cheio de distrações, pode reduzir a motivação das pessoas para aprender música, pois elas podem sentir que não têm tempo ou energia para se dedicar a algo que exige tempo e esforço. 
+
+
+> Nosso trabalho vê como problema
+
+
+> **Links Úteis**:
+> - [Brainstorming](https://drauziovarella.uol.com.br/doencas-e-sintomas/calvicie-alopecia-androgenetica/)
 
 ## Objetivos
 
-O projeto RHYTHMICITY tem como principais objetivos oferecer uma plataforma e comunidade de ensino de música mais atrativa e rápida, além de disponibilizar aluguéis de instrumentos musicais. Com o intuito de proporcionar uma experiência mais interativa e personalizada aos usuários, a plataforma conta com diversas funcionalidades que permitem o aprendizado de forma dinâmica e divertida. Além disso, a disponibilidade de aluguéis de instrumentos oferece uma solução prática e acessível para quem deseja aprender a tocar um instrumento sem precisar investir em um equipamento logo no início. 
+
+
+> O nosso projeto teve como objetivo informar e ajudar pessoas
+> que sofrem de calvicie e as que tem medo do fato. Para isso,
+> criamos um site informativo que ajuda as pessoas a entenderem
+> melhor sobre o que é calvicie (alopcia) e até mesmo a entender
+> os tipos da calvicie, para que o direcionamento do tratamento
+> seja o mais eficaz possível.
+
+> **Links Úteis**:
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://www.materdei.com.br/cuidados-com-a-saude/guia-de-doencas/calvicie)
 
 ## Justificativa
 
-Primeiramente, a plataforma busca oferecer uma experiência mais atrativa e rápida para o ensino de música. Muitas vezes, o aprendizado de música pode ser desmotivador para os alunos, especialmente quando se utiliza métodos tradicionais de ensino, que podem ser monótonos e pouco interativos. Com a utilização de tecnologias e funcionalidades dinâmicas, o RHYTHMICITY busca tornar o aprendizado de música mais envolvente e divertido, o que pode aumentar a motivação dos alunos e, consequentemente, melhorar seu desempenho e retenção de conhecimento.
 
-Além disso, a disponibilidade de aluguéis de instrumentos musicais é uma solução prática e acessível para aqueles que desejam aprender a tocar um instrumento, mas não têm condições financeiras para adquirir um equipamento logo no início. Isso pode ajudar a democratizar o acesso ao ensino de música, permitindo que pessoas de diferentes níveis socioeconômicos possam ter a oportunidade de aprender um novo hobby ou até mesmo desenvolver uma carreira profissional na área.
 
-Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à motivação e acessibilidade no ensino de música, através de uma plataforma interativa e personalizada, além de oferecer aluguéis de instrumentos musicais como uma solução prática e acessível para aqueles que desejam iniciar seus estudos.
+> Descreva a importância ou a motivação para trabalhar com esta aplicação
+> que você escolheu. Indique as razões pelas quais você escolheu seus
+> objetivos específicos ou as razões para aprofundar em certos aspectos
+> do software.
+> 
+> O grupo de trabalho pode fazer uso de questionários, entrevistas e
+> dados estatísticos, que podem ser apresentados, com o objetivo de
+> esclarecer detalhes do problema que será abordado pelo grupo.
+>
+> **Links Úteis**:
+> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -86,20 +111,20 @@ Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à moti
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
-## Personas, Empatia e Proposta de Valor
-
-......  COLOQUE AQUI O SEU TEXTO ......
+## Personas e Mapas de Empatia
 
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
+
+
+> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
+> você deve ser enumerar e descrever precisamente e de forma
+> personalizada todos os principais envolvidos com a solução almeja. 
 > 
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
@@ -111,17 +136,13 @@ Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à moti
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
 > 
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](imaages/../images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
-> **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
 
 ## Histórias de Usuários
@@ -253,7 +274,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -273,7 +294,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -288,42 +309,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3| 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
+
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
@@ -351,91 +344,35 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
+
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Utilizamos tecnologias como, HTML, CSS, JavaScript, Bootstra, Git, Github, entre outras.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+>Utilizamos o github pages para a hospedagem do nosso site.
+> - [github pages](https://pages.github.com)
 
-
-# Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Nós utilizamos teste manuais para efetuar o teste da aplicação.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
-## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+ 
 
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [Informações](https://www.uol.com.br/vivabem/doencas-de-a-z/calvicie-masculina-sem-cura-terapia-breca-avanco-e-deve-comecar-cedo.htm)
+> - [Informações](https://drauziovarella.uol.com.br/doencas-e-sintomas/calvicie-alopecia-androgenetica/
