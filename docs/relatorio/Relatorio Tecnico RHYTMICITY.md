@@ -69,22 +69,7 @@ Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à moti
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+- O público-alvo do RHYTHMICITY são pessoas que têm interesse em praticar e aprender música, mas que por diversos motivos, como rotina corrida, falta de motivação ou falta de acessibilidade em escolas e cursos de música, acabaram perdendo o contato com essa atividade. A plataforma busca atrair essas pessoas oferecendo uma experiência mais dinâmica e personalizada de ensino, que pode ajudá-las a recuperar o interesse pela música e retomar seus estudos. Além disso, a disponibilidade de aluguéis de instrumentos musicais torna o acesso ao aprendizado mais acessível, permitindo que pessoas de diferentes níveis socioeconômicos possam ter a oportunidade de aprender e praticar música.
  
 # Especificações do Projeto
 
