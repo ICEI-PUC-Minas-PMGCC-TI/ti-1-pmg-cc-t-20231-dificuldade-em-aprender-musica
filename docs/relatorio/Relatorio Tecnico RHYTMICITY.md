@@ -90,12 +90,16 @@ Em resumo, o projeto RHYTHMICITY busca solucionar problemas relacionados à moti
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `LUCCA`| QUERO/PRECISO `APRENDER MAIS RAPIDO`   |PARA ... `NAO TOMAR MUITO TEMPO E MESMO ASSIM APRENDER`                                       |
+|EU COMO... `PERSONA`| QUERO/PRECISO `APRENDER MAIS RAPIDO`   |PARA ... `NAO TOMAR MUITO TEMPO E MESMO ASSIM APRENDER`                                     |
 |--------------------|---------------------------------------|---------------------------------------------------------------------------------------------|
-|Usuário do sistema  | Materal didatico interativo           | Permitir que pare as aulas em qualquer tempo e retomar depois onde parou                    |
-|                    | Video-Aulas dinamicas                 | Permitir que possam administrar materiais                                                   |
+|Usuário do sistema  | Video-Aulas dinamicas                 | Permitir que pare as aulas em qualquer tempo e retomar depois onde parou                    |
+|Administrador       | Por video-aulas curtas                | Permitir que possam administrar materiais e video-aulas                                     |
 
 
+|EU COMO... `PERSONA`| QUERO/PRECISO `ALUGAR UM MATERIAL`    |PARA ... `NAO TER QUE GASTAR MUITO EM UM INSTRUMENTO`                                        |
+|--------------------|---------------------------------------|---------------------------------------------------------------------------------------------|
+|Usuário do sistema  | Procurar por instrumento              | Escolhe o tipo de instrumento, marca e preço                                                |
+|Administrador       | Mostar os instrumentos disponíveis    | Filtrar as melhores opções                                                                  |
 
 ## Requisitos
 
