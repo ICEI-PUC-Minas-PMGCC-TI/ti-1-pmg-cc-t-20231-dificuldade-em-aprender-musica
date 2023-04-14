@@ -51,23 +51,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Atualmente, muitas pessoas encontram dificuldades em aprender música. Uma das principais razões é a falta de tempo. Com a vida agitada e a sobrecarga de compromissos, muitas pessoas têm dificuldade em encaixar aulas de música em sua rotina. Além disso, o preço dos instrumentos pode ser bastante alto, o que pode desencorajar as pessoas a se envolverem com a música. Por fim, o mundo atual, que é cada vez mais rápido e cheio de distrações, pode reduzir a motivação das pessoas para aprender música, pois elas podem sentir que não têm tempo ou energia para se dedicar a algo que exige tempo e esforço. 
 
 ## Objetivos
 
