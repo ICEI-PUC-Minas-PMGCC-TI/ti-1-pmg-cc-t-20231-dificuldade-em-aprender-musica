@@ -1,21 +1,16 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`PROJETO RHYTMICITY`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`Ciencias Da Computação PUC Minas - 1º Periodo` 
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Felipe Vilhena
+> - Lucas Hauck
+> - Gabriel Apocalypse
+> - Luiz Segolin
 
 # Estrutura do Documento
 
