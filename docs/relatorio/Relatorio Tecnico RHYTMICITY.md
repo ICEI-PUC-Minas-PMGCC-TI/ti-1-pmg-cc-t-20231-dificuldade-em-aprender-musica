@@ -185,7 +185,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/userflow.png)
 
 
 ## Wireframes
@@ -205,7 +205,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Exemplo de Wireframe](images/wireframe-example1.png)
 
 
 # Metodologia
