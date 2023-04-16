@@ -157,16 +157,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 A equipe realiza duas reuniões semanais para debater ideias e problemas, com o objetivo de manter todos os membros do grupo atualizados sobre o progresso do projeto. Além disso, a equipe estabeleceu um sprint semanal para garantir a entrega de novas funcionalidades a cada semana, seguindo as práticas recomendadas pelo Scrum.
 
 A gestão de configuração do projeto é feita através do Github, uma plataforma de gerenciamento de código-fonte baseada na nuvem. Essa ferramenta permite que a equipe trabalhe de forma colaborativa, com o controle de versão e o acompanhamento do histórico de alterações. Com o uso do Github, é possível garantir a qualidade do código e evitar conflitos entre os membros da equipe, tornando o processo de desenvolvimento mais eficiente e organizado.
+
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- O processo de divisão de tarefas do primeiro sprint do projeto RHYTMICITY foi realizado com o objetivo de garantir que todas as funcionalidades do projeto fossem desenvolvidas de forma eficiente e colaborativa. O Scrum Master foi o responsável principal pelo gerenciamento do Github, enquanto os outros membros da equipe foram designados para funções específicas.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Composta por quatro pessoas, cada membro da equipe assumiu a responsabilidade por uma função no projeto. O primeiro sprint incluiu as seguintes tarefas: Relatório Técnico - Documentação do Projeto (PDF), Apresentação (PPT/PDF), Repositório GitHub (ZIP) e Processo de Design Thinking (PDF).
 
+O responsável pelo Relatório Técnico - Documentação do Projeto ficou encarregado de documentar todas as informações relevantes do projeto, incluindo requisitos, funcionalidades e especificações técnicas. O membro responsável pela Apresentação criou uma apresentação visual que destacou os principais aspectos do projeto e os objetivos a serem alcançados. O Repositório GitHub foi gerenciado pelo Scrum Master, que garantiu que todas as alterações de código fossem registradas corretamente. Já o responsável pelo Processo de Design Thinking elaborou um documento detalhando todo o processo de design utilizado para desenvolver a solução.
+
+Para os próximos sprints, a equipe continuará seguindo o processo de divisão de tarefas e mantendo o foco na entrega das funcionalidades conforme o planejado. Com o uso da metodologia Scrum e a colaboração de todos os membros da equipe, o projeto RHYTMICITY tem grandes chances de sucesso.
 
 ## Ferramentas
 
