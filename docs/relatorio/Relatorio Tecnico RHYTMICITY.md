@@ -161,13 +161,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
-
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+> - O processo criativo do userflow e da interface do projeto RHYTMICITY foi cuidadosamente planejado para oferecer uma experiência confortável e responsiva aos usuários. A abordagem minimalista e direta ao ponto do design garante que os usuários possam navegar pelo aplicativo de maneira intuitiva, sem distrações desnecessárias. O objetivo é criar uma experiência de uso suave e sem complicações, permitindo que os usuários desfrutem ao máximo do aplicativo e se concentrem na música.
 
 ## User Flow
 
