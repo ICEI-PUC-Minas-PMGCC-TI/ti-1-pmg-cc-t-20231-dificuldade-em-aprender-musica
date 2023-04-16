@@ -108,38 +108,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|------|------------------------------------------------------|-------|
+|RF-001| Permitir que o usuário cadastre tarefas              | MÉDIA |  
+|RF-002| Permitir que o usuário tenha controle de seus cursos | ALTA  |
+|RF-003| Foco na parte de aluuel de instrumentos              | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA  |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA |
 
 
 ## Restrições
@@ -152,16 +132,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 # Projeto de Interface
-> - O processo criativo do userflow e da interface do projeto RHYTMICITY foi cuidadosamente planejado para oferecer uma experiência confortável e responsiva aos usuários. A abordagem minimalista e direta ao ponto do design garante que os usuários possam navegar pelo aplicativo de maneira intuitiva, sem distrações desnecessárias. O objetivo é criar uma experiência de uso suave e sem complicações, permitindo que os usuários desfrutem ao máximo do aplicativo e se concentrem na música.
+ - O processo criativo do userflow e da interface do projeto RHYTMICITY foi cuidadosamente planejado para oferecer uma experiência confortável e responsiva aos usuários. A abordagem minimalista e direta ao ponto do design garante que os usuários possam navegar pelo aplicativo de maneira intuitiva, sem distrações desnecessárias. O objetivo é criar uma experiência de uso suave e sem complicações, permitindo que os usuários desfrutem ao máximo do aplicativo e se concentrem na música.
 
 ## User Flow
 
@@ -180,24 +152,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- O projeto RHYTMICITY tem como objetivo criar uma plataforma digital que facilite o ensino de música e o aluguel de instrumentos. Para alcançar esse objetivo, o grupo responsável pelo projeto adotou a metodologia ágil do Scrum, que tem se mostrado eficiente no desenvolvimento de projetos complexos.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A equipe realiza duas reuniões semanais para debater ideias e problemas, com o objetivo de manter todos os membros do grupo atualizados sobre o progresso do projeto. Além disso, a equipe estabeleceu um sprint semanal para garantir a entrega de novas funcionalidades a cada semana, seguindo as práticas recomendadas pelo Scrum.
 
+A gestão de configuração do projeto é feita através do Github, uma plataforma de gerenciamento de código-fonte baseada na nuvem. Essa ferramenta permite que a equipe trabalhe de forma colaborativa, com o controle de versão e o acompanhamento do histórico de alterações. Com o uso do Github, é possível garantir a qualidade do código e evitar conflitos entre os membros da equipe, tornando o processo de desenvolvimento mais eficiente e organizado.
 ## Divisão de Papéis
 
 ......  COLOQUE AQUI O SEU TEXTO ......
