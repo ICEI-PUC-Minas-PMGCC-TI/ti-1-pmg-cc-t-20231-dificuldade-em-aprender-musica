@@ -14,7 +14,8 @@ O nosso projeto, Rhythmicity, tem o objetivo de facilitar o aprendizado de músi
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
-* Nome completo do professor 2
+* Ilo Amy Saldanha Rivero
+* João Carlos Oliveira Caetano
 
 ## Instruções de utilização
 
