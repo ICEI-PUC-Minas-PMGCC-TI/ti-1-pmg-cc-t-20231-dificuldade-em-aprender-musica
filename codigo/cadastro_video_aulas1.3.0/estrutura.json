@@ -1,0 +1,22 @@
+{
+    "videos": [
+        {
+            "titulo": "Aula 1 de Violão iniciante Nível Zero",
+            "descricao": "Aula incial de violão",
+            "duracao": "14:57",
+            "link": "https://www.youtube.com/watch?v=jt9oRHFpZfs&ab_channel=HeitorCastro"
+        },
+        {
+            "titulo": "Aula 2",
+            "descricao": "Aula 2 de violão",
+            "duracao": "8:35",
+            "link": "https://www.youtube.com/watch?v=aaaaaaaaa"
+        },
+        {
+            "titulo": "Aula 3",
+            "descricao": "Aula 3 de violão",
+            "duracao": "3:17",
+            "link": "https://www.youtube.com/watch?v=bbbbbbbbb"
+        }
+    ]
+}
